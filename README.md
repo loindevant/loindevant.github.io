@@ -9,3 +9,5 @@
 | Analyse                | Analyser, Distinguer, Discriminer, Examiner, Comparer, Contraster, Séparer, Identifier | Analysieren, Unterscheiden, Diskriminieren, Untersuchen, Vergleichen, Kontrastieren, Trennen, Identifizieren |
 | Synthèse               | Combiner, Composer, Construire, Créer, Formuler, Proposer, Synthétiser, Inventer  | Kombinieren, Zusammensetzen, Bauen, Schaffen, Formulieren, Vorschlagen, Synthetisieren, Erfinden |
 | Évaluation             | Évaluer, Juger, Mesurer, Noter, Comparer, Justifier, Défendre, Critiquer          | Bewerten, Beurteilen, Messen, Benoten, Vergleichen, Rechtfertigen, Verteidigen, Kritisieren |
+
+# La suite viendra bien assez tôt
