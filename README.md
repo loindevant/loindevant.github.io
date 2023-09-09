@@ -1,5 +1,6 @@
 # ChatGPT du jour
 ### Les quartiers de Fribourg
+
 | Quartier | Description |
 |----------|-------------|
 | Bourg | Le cœur historique de la ville, avec la cathédrale Saint-Nicolas. |
