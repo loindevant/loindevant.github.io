@@ -1,4 +1,3 @@
-| --- |
 | *Samedi 9 septembre 2023* |
 | --- |
 
