@@ -1,5 +1,4 @@
-# ChatGPT du jour
-### Les quartiers de Fribourg
+# Les quartiers de Fribourg
 
 | Quartier | Description |
 |----------|-------------|
