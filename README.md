@@ -1,6 +1,6 @@
 # L'ontologie comme méthode pour résoudre des problèmes
 
-L'utilisation de l'ontologie comme technique de résolution de problèmes universelle présente plusieurs avantages significatifs. Voici une analyse en trois points de son intérêt :
+**L'utilisation de l'ontologie comme technique de résolution de problèmes universelle présente plusieurs avantages significatifs. Voici une analyse en trois points de son intérêt :**
 
 1. **Compréhension Conceptuelle Profonde** :
    L'ontologie, en philosophie, concerne la nature et l'organisation de la réalité. Dans un contexte informatique, elle se réfère à une représentation structurée des connaissances. En utilisant l'ontologie pour aborder un problème, on s'assure d'avoir une compréhension profonde et structurée des concepts et relations en jeu. Cette structuration permet d'éviter les ambiguïtés et d'obtenir une vision claire du problème.
