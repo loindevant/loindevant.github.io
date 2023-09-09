@@ -1,5 +1,5 @@
 # Bonjour monde !!!
-
+### Je me réjouis de vos inputs
 | Niveau de la taxonomie | Verbes associés                                                                 | Traduction allemande                                                       |
 |------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | Connaissance           | Enumérer, Identifier, Nommer, Réciter, Définir, Énoncer, Relater                | Aufzählen, Identifizieren, Benennen, Rezitieren, Definieren, Angeben, Erzählen |
