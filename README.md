@@ -1,6 +1,4 @@
-|---|
 | *Samedi 9 septembre 2023* |
-|---|
 
 # L'ontologie comme méthode pour résoudre des problèmes
 
