@@ -1,3 +1,6 @@
+| *Samedi 9 septembre 2023* |
+| -----
+
 # L'ontologie comme méthode pour résoudre des problèmes
 
 **L'utilisation de l'ontologie comme technique de résolution de problèmes universelle présente plusieurs avantages significatifs. Voici une analyse en trois points de son intérêt :**
