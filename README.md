@@ -2,7 +2,7 @@
 # Hello world #
 =======
 # Bonjour monde !!!!!!!!
-### Je me réjouis de vos inputs
+### Je me réjouis de vos inputssss [^1]
 
 | Niveau de la taxonomie | Verbes associés                                                                 | Traduction allemande                                                       |
 |------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -15,3 +15,5 @@
 
 # La suite viendra bien assez tôt
 >>>>>>> Stashed changes
+
+[^1]: Oui oui !!!
