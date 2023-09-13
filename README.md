@@ -16,4 +16,6 @@
 # La suite viendra bien assez tôt
 >>>>>>> Stashed changes
 
+Mais non...
+
 [^1]: Oui oui !!!
