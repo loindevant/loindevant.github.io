@@ -1,7 +1,5 @@
-# Hello world #
-=======
 # Bonjour monde !!!!!!!!
-### Je me réjouis de vos inputssss [^1]
+### Je me réjouis de vos inputssss 
 
 | Niveau de la taxonomie | Verbes associés                                                                 | Traduction allemande                                                       |
 |------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -13,8 +11,6 @@
 | Évaluation             | Évaluer, Juger, Mesurer, Noter, Comparer, Justifier, Défendre, Critiquer          | Bewerten, Beurteilen, Messen, Benoten, Vergleichen, Rechtfertigen, Verteidigen, Kritisieren |
 
 # La suite viendra bien assez tôt
->>>>>>> Stashed changes
 
 Mais non...
 
-[^1]: Oui oui !!!
