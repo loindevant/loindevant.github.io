@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # Hello world #
 =======
 # Bonjour monde !!!!!!!!
