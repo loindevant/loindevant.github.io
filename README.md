@@ -1,3 +1,1 @@
-# loindevant.github.io
-
-Hello world
+Never express yourself more clearly than you are able to think. (Niels Bohr)
