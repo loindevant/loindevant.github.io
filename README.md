@@ -10,6 +10,4 @@ Le maître se dit tout aussi évolué socialement, syndicalement et politiquemen
 
 Et l'on s'étonne que les enfants qui échappent un jour à cette autorité soient incapables de se commander eux-mêmes, de réfléchir et d'agir; qu'ils soient inaptes à s'organiser et que leur principale préoccupation soit, maintenant et plus tard, d'échapper à l'autorité !
 
-Au siècle de la démocratie, alors que tous les pays, les uns après les autres accèdent à l'indépendance, l'Ecole du peuple ne saurait être qu'une école démocratique préparant, par l'exemple et par l'action, la vraie démocratie.
-
-
+Au siècle de la démocratie, alors que tous les pays, les uns après les autres accèdent à l'indépendance, l'Ecole du peuple ne saurait être qu'une école démocratique préparant, par l'exemple et par l'action, la vraie démocratie...
